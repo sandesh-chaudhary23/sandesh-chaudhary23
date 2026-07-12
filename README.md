@@ -57,13 +57,9 @@
 
 ---
 
-### 🧩 LeetCode
+### 🧩 Problem Solving
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sandesh-chaudhary23?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-> 300+ problems solved and counting 🚀 &nbsp;<sub>(update the LeetCode username above if it differs)</sub>
+> 🚀 **300+ LeetCode problems solved** — strong in data structures & algorithms.
 
 ---
 
